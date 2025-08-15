@@ -86,7 +86,7 @@ Generates a patient QoL report from a JSON file.
 - Method: `POST`
 - Endpoint:
   ```arduino
-  http://127.0.0.1:8000/generate_report_from_json/
+  http://127.0.0.1:8000/generate_report_from_json
   ```
 - Headers:
   ```pgsql
@@ -99,7 +99,7 @@ Generates a patient QoL report from a PDF file.
 - Method: `POST`
 - Endpoint:
   ```arduino
-  http://127.0.0.1:8000/generate_report/
+  http://127.0.0.1:8000/generate_report
   ```
 - Headers:
   ```bash
@@ -112,7 +112,7 @@ Generates a patient QoL report from a PDF file.
 ### 7. Example Postman Usage
 For JSON Input
 1. Set method to POST.
-2. URL: `http://127.0.0.1:8000/generate_report_from_json/`
+2. URL: `http://127.0.0.1:8000/generate_report_from_json`
 3. In Headers, set:
    ```pgsql
    Content-Type: application/json
@@ -121,7 +121,7 @@ For JSON Input
 
 For PDF Input
 1. Set method to POST.
-2. URL: `http://127.0.0.1:8000/generate_report/`
+2. URL: `http://127.0.0.1:8000/generate_report`
 3. In Body → Form-data:
    - Key: `file`
    - Type: File
