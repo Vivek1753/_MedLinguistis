@@ -59,19 +59,21 @@ The model is stored on Google Drive and must be downloaded before running the pi
    ```
 
 3. Extract the downloaded model into the model/ folder:
-   ```bash
-   model/
-    └── thematic_model/
-        ├── config.json
-        ├── pytorch_model.bin
-        ├── tokenizer.json
-        ├── ...
-   ```
+ ```bash
+ model/
+  └── thematic_model/
+      ├── config.json
+      ├── pytorch_model.bin
+      ├── tokenizer.json
+      ├── ...
+ ```
    
 5. Verify the model path in your code points to:
-   ```bash
-   MODEL_PATH = "model/thematic_model"
-   ```
+ ```bash
+ MODEL_PATH = "model/thematic_model"
+ ```
+
+
    
 
 
