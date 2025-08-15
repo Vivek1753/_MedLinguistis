@@ -1,0 +1,30 @@
+# Ignore model folder
+model/
+
+# Ignore environment variables file
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+.env/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db

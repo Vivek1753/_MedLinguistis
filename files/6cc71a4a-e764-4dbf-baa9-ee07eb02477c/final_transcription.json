@@ -1,0 +1,90 @@
+{
+  "Patient_ID": "Patient_97263",
+  "Metadata": {
+    "Personal": "Jackie Barnes",
+    "Date_of_Birth": "02-08-1963",
+    "Age": "N/A",
+    "Occupation_Category": "N/A",
+    "BMI_Category": "N/A",
+    "Gender": "Female",
+    "Marital_Status": "N/A",
+    "Ethnicity": "N/A",
+    "Job_Title": "teach dancing",
+    "Previous_Hernia_Repairs": [
+      {
+        "Year": "2007",
+        "Hospital": "Marylebone Hospital",
+        "Surgeon": "Kettering",
+        "Laparoscopic": true,
+        "Mesh_Used": true,
+        "Wound_Breakdown": false
+      },
+      {
+        "Year": "2018",
+        "Hospital": "Hull Royal Infirmary",
+        "Surgeon": "N/A",
+        "Laparoscopic": true,
+        "Mesh_Used": true,
+        "Wound_Breakdown": true,
+        "Breakdown_Healing_Time": "4 months"
+      }
+    ],
+    "Weight_Current_Kg": "100",
+    "Medical_History": {
+      "Prior_Major_Surgeries": [
+        {
+          "Operation": "laparoscopic cholecystectomy",
+          "Hospital_Surgeon": "Marylebone Hospital",
+          "Year": "2005"
+        },
+        {
+          "Operation": "laparoscopic incision of hernia repair",
+          "Hospital_Surgeon": "Marylebone Hospital",
+          "Year": "2007"
+        },
+        {
+          "Operation": "Open Recurred incisional hernia repair",
+          "Hospital_Surgeon": "Hull Royal Infirmary",
+          "Year": "2018"
+        }
+      ],
+      "Diabetes": false,
+      "Smoking_Status": "Current",
+      "High_Blood_Pressure": false,
+      "Arthritis": true,
+      "Allergies": "told allergic to penicillin",
+      "Family_History": "N/A",
+      "Medication_Adherence": "N/A"
+    },
+    "Medications": {},
+    "VHWG_Grade": "N/A",
+    "Modified_VHWG_Breakdown": {},
+    "Modified_VHWG_Score": "N/A"
+  },
+  "QoL_Checklist": {
+    "Symptoms": true,
+    "Body_Image": true,
+    "Mental_Health": true,
+    "Relationships_(social_and_sexual)": true,
+    "Employment": true,
+    "able_to_lie_flat_comfortably": true
+  },
+  "Narratives": {
+    "symptoms_management_of_pain": "Yes - as described above I try to wear corset regularly and on \"mild\" days with a Bow Padded bib to feel without corset",
+    "symptoms_freedom_of_movement": "It can do as it is quite large. However when it starts becoming difficult I put on the binder",
+    "symptoms_restriction_and_adaptation": "It can restrict activities I get on with life by using a abdominal binder. I have tried many ones but finally found one I like. It allows me to run my dancing class too. Yes as above used abdominal binder/corset It helps me a lot but is difficult to wear in hot weather",
+    "employment_financial_pressure": "It would if I did not work but I use the binder & get on with it. I will consider not earning money, simply cannot afford not",
+    "employment_return_to_work_issues": "I dont let it affect my work as I cannot afford to not work",
+    "employment_costs_to_family": "N/A",
+    "body_image_changes_to_perceptions_of_self": "Definitely so I try to hide it by using my corset. I want to go out without it as otherwise it is quite visible and I feel it makes me obvious. I hate being seen by anyone in the street.",
+    "body_image_fears_concerning_perceptions_of_others": "Oh definitely they do. If I dont have my corset & someone (someone like the post woman in my village) I can see they are quite shocked & want to ask but are being polite. It looks and somehow draws attention to it myself hence I use it. I have to do that and feel \"here we go again\". I hate that feeling of having to explain myself",
+    "mental_health_emotional_responses": "Yes it has. I used to be incredibly fit. Over time this has reduced and I feel twice old. It contributed greatly when I got a job that I considered \"dummy job\". Not giving dancing lessons. Mostly I could let it affect that. I did have feelings of low mood but have never been diagnosed to have depression.",
+    "mental_health_disruptions_to_previous_identity": "N/A",
+    "mental_health_coping_strategies": "Not being able to act on feeling of \"wanting\" to give up being a dance teacher. I will forced me to face the situation. I think I am better adjusted to the situation and that is just how it is.",
+    "interpersonal_relationships_changes_in_sexual_relations": "I have a supportive partner. Our relationship is one of companionship rather than intimacy",
+    "interpersonal_relationships_difficulties_in_connecting_socially": "I try not to let it affect me. As I said I find my corset very helpful. I put it on & go out for activities. Social activities help me cope with the hernia a lot so I have to get myself out there & do what I like.",
+    "SharedDecisionMaking_Questions": "If anything can be done. Surgery will wall surgery be a high risk surgery. Will surgery fail again.",
+    "SharedDecisionMaking_Hopes": "that I am put on a waiting list for surgery",
+    "SharedDecisionMaking_Matters_To_You": "to have this monstrosity gone!"
+  }
+}
