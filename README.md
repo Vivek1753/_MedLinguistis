@@ -45,6 +45,34 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download and Setup Models
+This project uses a fine-tuned model named **`thematic_model`**.  
+The model is stored on Google Drive and must be downloaded before running the pipeline.
+
+**Steps:**
+
+1. Download the model from the provided Google Drive link:  
+   [📥 Download thematic_model](https://drive.google.com/drive/folders/1ijZBi3NnoHUKqkqBZcTa0stEtPaQZN33?usp=sharing)
+
+2. Create a `model` folder in the project root (if it does not already exist):
+  ```bash
+   mkdir model
+   ```
+
+3. Extract the downloaded model into the model/ folder:
+   ```bash
+   model/
+    └── thematic_model/
+        ├── config.json
+        ├── pytorch_model.bin
+        ├── tokenizer.json
+        ├── ...
+   ```
+   
+5. Verify the model path in your code points to:
+   ```bash
+   MODEL_PATH = "model/thematic_model"
+   ```
+   
 
 
 
